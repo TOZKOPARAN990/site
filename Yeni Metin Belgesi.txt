@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .me{
 color: red;
 }
@@ -22,3 +23,29 @@ color: blue;
   .hesap:hover {
     color:blue
   }
+=======
+.me{
+color: red;
+}
+
+html {
+    font-family: Verdana;
+    font-size: 15px;
+  }
+
+  .hakkımda {
+    color: green;
+  }
+
+  .hakkımda:hover {
+color: blue;
+  }
+
+  .hesap {
+    color:green
+  }
+
+  .hesap:hover {
+    color:blue
+  }
+>>>>>>> 3a0d10df487bd72a3b4f044866717e4cca8e9eec
