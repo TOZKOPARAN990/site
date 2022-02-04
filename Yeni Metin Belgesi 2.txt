@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ben Kimim</title>
+    <link rel="stylesheet" href="style.css" href="simgeler/simgeke.png">
+</head>
+<body>   
+<h1><u>benkimim.com</u></h1>
+<hr>
+<h3>Merhaba, Ben</h3>
+<table border="10"> 
+<tr>
+<th>
+<h3><span class="me">Eymen</span></h3>
+</th>
+</tr>
+</table>
+<hr>
+
+<a href="hakkımda.html" target="_blanks" class="hakkımda">Hakkımda</a>
+<a href="hesap.html" target="_blanks" class="hesap">Hesap Makinesi</a>
+<div>
+<ul>
+
+<li>Ben bir <span style="color: darkred;">Yazılımcıyım</span></li>
+<li>Ben bir <span style="color: darkred;">Tasarımcıyım</span></li>
+<li>Ben bir <span style="color: darkred;">Öğrenciyim</span></li>
+
+</ul> 
+</div>
+
+<img src="simgeler/simgeke.png" alt="simge">
+<p>Başka siteler için: <a href= "https://emryunuspehlivan.com/" target="_blanks">MyBlog</a></p>
+
+</body>
+</html>
